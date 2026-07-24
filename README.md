@@ -12,15 +12,20 @@
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://cdn-icons-png.flaticon.com/512/2721/2721298.png" width="25"/> Tech Stack
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35"/> React
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="35"/> Vite
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/> JavaScript
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35"/> HTML
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/> CSS
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="35"/> Material UI
 </p>
 
 ---
@@ -37,6 +42,7 @@
 
 - GitHub: `https://github.com/santhavi`
 - LinkedIn: `https://www.linkedin.com/in/santhavi-saravanan-037b79336`
+-  Email: <a href="mailto:santhavisaran06@gmail.com">santhavisaran06@gmail.com</a>
 
 ---
 
